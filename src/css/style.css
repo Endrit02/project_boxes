@@ -38,7 +38,7 @@ body {
   font-weight: bold;
   line-height: 1.3em;
   margin-bottom: 15px;
-  color: rgb(0, 0, 0);
+  color: rgb(202, 165, 165);
 }
 
 .box__content p {
@@ -77,7 +77,7 @@ body {
   font-weight: bold;
   line-height: 1.3em;
   margin-bottom: 15px;
-  color: rgb(0, 0, 0);
+  color: rgb(202, 165, 165);
   margin-top: 12px;
 }
 
